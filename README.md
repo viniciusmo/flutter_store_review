@@ -4,7 +4,7 @@ Rate on App Store directly in your Flutter app.
 
 ## Add in pubspec.yaml
 ```yaml
-store_review: ^0.0.1
+store_review: ^0.0.2
 ```
 
 ## Usage
