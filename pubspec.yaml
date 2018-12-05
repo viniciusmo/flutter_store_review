@@ -1,7 +1,7 @@
 name: store_review
 description: Rate on App Store directly in your Flutter app
 
-version: 0.0.1
+version: 0.0.2
 author: viniciusmo <viniciusoliveiravmo@gmail.com>
 homepage: https://github.com/viniciusmo/flutter_store_review
 
