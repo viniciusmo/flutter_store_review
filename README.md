@@ -14,3 +14,10 @@ if (await StoreReview.isAvailable) {
   StoreReview.requestReview();
 }
 ```
+
+Demo
+--------
+
+<p align="center"> 
+	  <img src="https://raw.githubusercontent.com/viniciusmo/flutter_store_review/master/example.gif" width="40%" height="40%">
+</p>
